@@ -1,5 +1,3 @@
-# driftbottle
-Offline physical message delivery game using Raspberry Pi and Wi-Fi
 # DriftBottle — a real-world message game (no internet needed)
 
 **DriftBottle** is an adventurous message-sharing system inspired by the old romantic idea of throwing bottles with messages into the sea.  
